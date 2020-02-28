@@ -21,3 +21,6 @@ jobs:
     - name: Run main
       run: |
         pipenv run main
+    - name: Run test
+      run: |
+        pipenv run test
