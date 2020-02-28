@@ -12,3 +12,4 @@ python_version = "3.8"
 
 [scripts]
 main = "python -m samplemod"
+test = "python -m unittest discover tests"
