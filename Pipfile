@@ -11,4 +11,4 @@ verify_ssl = true
 python_version = "3.8"
 
 [scripts]
-main = "python main.py"
+main = "python -m samplemod"
