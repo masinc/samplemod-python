@@ -9,3 +9,6 @@ verify_ssl = true
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+main = "python main.py"
